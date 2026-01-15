@@ -1,0 +1,15 @@
+{
+  "name": "EoQ 6108",
+  "short_name": "EoQ6108",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "description": "Soon or later..",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
